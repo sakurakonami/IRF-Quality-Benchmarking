@@ -9,7 +9,7 @@
 
 [Click here to view Google Doc of full process of my project!](https://docs.google.com/document/d/e/2PACX-1vRiBVKbu1-_ringCSEhFZrBjY1XFhIEEfCHzald2GCQe4fZksjn1WNhj8gSNCyBTWas6M1_vZ0MLiE7/pub)
 
-
+[Click here for Excel workbook](https://westerngovernorsuniversity-my.sharepoint.com/:x:/g/personal/tharr6_wgu_edu/IQBcICTjmDzSTYDFf6cG1nB9AREfvY2mD10eaamYkIC9ZkQ?e=S3yiMu)
 
 
 ## Business Problem 
