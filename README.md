@@ -9,7 +9,6 @@
 
 [Click here to view Google Doc of full process of my project!](https://docs.google.com/document/d/e/2PACX-1vRiBVKbu1-_ringCSEhFZrBjY1XFhIEEfCHzald2GCQe4fZksjn1WNhj8gSNCyBTWas6M1_vZ0MLiE7/pub)
 
-[Click Here for GitHub Link!](https://github.com/sakurakonami/IRF-Quality-Benchmarking.git)
 
 
 
